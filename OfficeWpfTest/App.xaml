@@ -1,0 +1,12 @@
+﻿<Application x:Class="OfficeWpfTest.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:local="clr-namespace:OfficeWpfTest"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <sys:String x:Key="ida:ClientId">72ebb696-947e-4918-97d6-814eac10d372</sys:String>
+        <sys:String x:Key="ida:AADInstance">https://login.microsoftonline.com/</sys:String>
+        <sys:String x:Key="ida:Domain">Kenze.onmicrosoft.com</sys:String>
+    </Application.Resources>
+</Application>

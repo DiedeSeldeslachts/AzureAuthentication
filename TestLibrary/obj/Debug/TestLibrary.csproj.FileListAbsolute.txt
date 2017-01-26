@@ -1,0 +1,7 @@
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\DiedeSeldeslachts\Documents\Visual Studio 2015\Projects\OfficeWpfTest\TestLibrary\obj\Debug\TestLibrary.pdb
